@@ -3,7 +3,7 @@
 <!--
 **gungorefecetin/gungorefecetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-High School student, AI researcher
+# High School student, AI researcher
 
 - 🔭 I’m currently working on Machine Learning, Competitive Programming
 - 🌱 I’m currently learning Data Structures and Algorithms
