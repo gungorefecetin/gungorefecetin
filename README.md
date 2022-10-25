@@ -3,7 +3,7 @@
 <!--
 **gungorefecetin/gungorefecetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Electronics and Communication Student, AI researcher, open-source lover.
+### Electronics and Communication Student, AI researcher, open-source lover. NEW PROJECTS COMING SOON
 
 - 🔭 I’m currently working on Competitive Programming
 - 🌱 I’m currently learning Machine Learning, Data Science, Data Structures and Algorithms w/ C++
