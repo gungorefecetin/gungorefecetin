@@ -5,8 +5,8 @@
 
 ### Electronics and Communication Student, lifetime learner, open-source lover.
 
-- 🔭 I’m currently working on Competitive Programming
-- 🌱 I’m currently learning Machine Learning, Data Science, Advanced JavaScript
+- 🔭 I’m currently working on Competitive Programming & Web Development
+- 🌱 I’m currently learning Machine Learning, Data Science, Advanced JavaScript & React.js
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 -->
