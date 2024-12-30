@@ -12,6 +12,6 @@
 -->
 - 💬 Find me on LinkedIn: www.linkedin.com/in/gungorefecetin/
 - 📫 How to reach me: gungor.efe.cetin56@gmail.com
-- ⚡ Also visit my high school projects: denklemcozucu.github.io (Solves quadratic equations), kaprekar-sabiti.github.io (A site that you can discover the mystery of the number 6174 -The Kaprekar Constant- and test the numbers you want)
+<!--- ⚡ Also visit my high school projects: denklemcozucu.github.io (Solves quadratic equations), kaprekar-sabiti.github.io (A site that you can discover the mystery of the number 6174 -The Kaprekar Constant- and test the numbers you want)-->
 <!--- 😄 Pronouns: ...
 -->
