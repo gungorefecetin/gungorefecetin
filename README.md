@@ -3,10 +3,10 @@
 <!--
 **gungorefecetin/gungorefecetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Electronics and Communication Engineering Student, lifetime learner, open-source lover.
+### Electronics and Communication Engineering Student, Full-Stack Developer, AI Enthusiast.
 
-- 🔭 I’m currently working on Competitive Programming & Web Development
-- 🌱 I’m currently learning Machine Learning, Data Science, Advanced JavaScript & React.js
+<!--- 🔭 I’m currently working on Competitive Programming & Web Development-->
+<!--- 🌱 I’m currently learning Machine Learning, Data Science, Advanced JavaScript & React.js-->
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 -->
