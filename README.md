@@ -3,7 +3,7 @@
 <!--
 **gungorefecetin/gungorefecetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Electronics and Communication Engineering Student, Full-Stack Developer, AI Enthusiast.
+## Electronics and Communication Engineering Student, Full-Stack Developer, AI Enthusiast.
 
 ## 🌟 About Me
 
