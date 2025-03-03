@@ -19,7 +19,7 @@ I'm a passionate **Electronics and Communication Engineering student** at Istanb
 Python, JavaScript, Java
 
 **Web & App Development:**  
-React, Next.js, Flask, Django, Node.js, Express.js, React Native, Tailwind CSS
+React, Next.js, Tailwind CSS, Flask, Django, Node.js, Express.js, React Native, Flutter (Beginner)
 
 **AI/ML Frameworks:**  
 TensorFlow, LangChain, HuggingFace
