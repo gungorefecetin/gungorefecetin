@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Electronics and Communication Engineering student** at Istanbul Technical University with a keen focus on **Artificial Intelligence**, **Full-Stack Development**, and **Cloud Computing**. My journey combines cutting-edge technology with hands-on project development to solve real-world problems.
+I'm a passionate developer for 6 years and an **Electronics and Communication Engineering student** at Istanbul Technical University with a keen focus on **Artificial Intelligence**, **Full-Stack Development**, and **Cloud Computing**. My journey combines cutting-edge technology with hands-on project development to solve real-world problems.
 
 - 💡 **Fields of Interest**: AI-Powered Solutions, Web & Mobile Development, Cybersecurity, and Data-Driven Applications.
 - 🧑‍💻 **Programming Enthusiast**: I thrive on building scalable, efficient, and impactful applications.
